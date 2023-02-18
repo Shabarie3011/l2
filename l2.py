@@ -1,2 +1,2 @@
 a = "I Love You";
-print(a*300);
+print(a*30);
